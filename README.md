@@ -1,4 +1,5 @@
 https://www.whitehouse.gov/wp-content/themes/whitehouse/static-assets/flourish/flourish-geo-embed/map/index.html
+White House map (Flourish viz `22588820`) of **immigration-enforcement arrests by location**, covering **01/21/25 – 05/28/26** (inauguration day through the day before today).
 
 *Newly added:** an ealier version of the map, whioch appears to be the same version which was the subject of [prior reporting by Maddy Varner Dell Cameron for Wired](https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/). 
 
@@ -22,7 +23,6 @@ The difference looks to confirm number reproduces WIRED's reporting exactly:
   - 5,221 surviving cells had their arrest counts revised downward (net −257,246)
 
 *The information below is based on the later scrape of the same map.* Still working on this will update shortly. 
-White House map (Flourish viz `22588820`) of **immigration-enforcement arrests by location**, covering **01/21/25 – 05/28/26** (inauguration day through the day before today).
 
 
 | file | size | what |
