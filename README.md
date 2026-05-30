@@ -1,6 +1,8 @@
 https://www.whitehouse.gov/wp-content/themes/whitehouse/static-assets/flourish/flourish-geo-embed/map/index.html
 White House map (Flourish viz `22588820`) of **immigration-enforcement arrests by location**, covering **01/21/25 – 05/28/26** (inauguration day through the day before today).
 
+See also: https://github.com/JonGerhardson/aliens_dot_gov_DDP_join_attempt
+
 *Newly added:** an ealier version of the map, whioch appears to be the same version which was the subject of [prior reporting by Maddy Varner Dell Cameron for Wired](https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/). 
 
 "In a statement provided post-publication, the White House said aliens.gov “pulls data directly from DHS, which initially included a handful of non-immigration HSI arrests,” adding that “this has been updated.” HSI, or Homeland Security Investigations, is a part of ICE. WIRED reviewed the updated data and found there were 270,214 fewer arrests listed."
