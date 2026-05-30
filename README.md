@@ -6,7 +6,7 @@ https://www.whitehouse.gov/wp-content/themes/whitehouse/static-assets/flourish/f
 
 This earlier data was obtained from a wayback machine snapshot and is is the _2026-05-29 versions in this repo. 
 
-Everything below this is AI output that to the best of my knowledge. If you want to work with the pre-scrub set the file you want is "flourish_data_full_PRESCRUB_2026-05-29.json" otherwise 'flourish_data_full.json.' 
+If you want to work with the pre-scrub set the file you want is "flourish_data_full_PRESCRUB_2026-05-29.json" otherwise 'flourish_data_full.json.' 
 
 The difference looks to confirm number reproduces WIRED's reporting exactly:
   - 476,547 − 206,333 = 270,214 — the precise removal figure the White House admitted to.
